@@ -1,0 +1,45 @@
+.container-slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Utilisez la hauteur de la vue pour centrer verticalement */
+}
+
+.slide {
+  position: relative;
+}
+
+/* Assurez-vous que les images prennent 100% de la largeur et de la hauteur du conteneur */
+.slide img {
+  width: 500px;
+  height: 500px;
+  border-radius: 40px;
+  transition-timing-function: linear;
+}
+
+.btn-slide {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #f1f1f1;
+  border: 1px solid rgba(34, 34, 34, 0.287);
+  position: absolute;
+  cursor: pointer;
+}
+
+.btn-slide img {
+  width: 20px;
+  height: 20px;
+}
+
+.prev {
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%); /* Centrer verticalement par rapport à son parent */
+}
+
+.next {
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%); /* Centrer verticalement par rapport à son parent */
+}
