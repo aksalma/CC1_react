@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
 import {Routes,Route} from 'react-router-dom'
 import NavScrollExample from './Composants/NavBar';
 import Calc from './Composants/calcul';
