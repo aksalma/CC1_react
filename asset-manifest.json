@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CC1_react/static/css/main.3b4d9944.css",
+    "main.css": "/CC1_react/static/css/main.f0107ef2.css",
     "main.js": "/CC1_react/static/js/main.28ebbb7b.js",
     "static/js/787.a23d9b8f.chunk.js": "/CC1_react/static/js/787.a23d9b8f.chunk.js",
     "static/media/united-kingdom.svg": "/CC1_react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
@@ -9,12 +9,12 @@
     "static/media/left-arrow.svg": "/CC1_react/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
     "static/media/right-arrow.svg": "/CC1_react/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
     "static/media/france.svg": "/CC1_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
-    "main.3b4d9944.css.map": "/CC1_react/static/css/main.3b4d9944.css.map",
+    "main.f0107ef2.css.map": "/CC1_react/static/css/main.f0107ef2.css.map",
     "main.28ebbb7b.js.map": "/CC1_react/static/js/main.28ebbb7b.js.map",
     "787.a23d9b8f.chunk.js.map": "/CC1_react/static/js/787.a23d9b8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b4d9944.css",
+    "static/css/main.f0107ef2.css",
     "static/js/main.28ebbb7b.js"
   ]
 }
